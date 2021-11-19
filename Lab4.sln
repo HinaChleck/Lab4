@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareForLoop", "Lab4\Squar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoCountWhile0", "DoCountWhile0\DoCountWhile0.csproj", "{874D3F8E-4DED-4197-9A71-D3D5145574B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileRectangle", "ConsoleApp1\WhileRectangle.csproj", "{1E2F7D59-FE41-4E56-9002-634D8E40075A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2F7D59-FE41-4E56-9002-634D8E40075A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2F7D59-FE41-4E56-9002-634D8E40075A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2F7D59-FE41-4E56-9002-634D8E40075A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2F7D59-FE41-4E56-9002-634D8E40075A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
