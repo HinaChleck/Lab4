@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareForLoop", "Lab4\SquareForLoop.csproj", "{9F91BCFC-3BDE-434B-9739-403D3F25D007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoCountWhile0", "DoCountWhile0\DoCountWhile0.csproj", "{874D3F8E-4DED-4197-9A71-D3D5145574B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F91BCFC-3BDE-434B-9739-403D3F25D007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F91BCFC-3BDE-434B-9739-403D3F25D007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F91BCFC-3BDE-434B-9739-403D3F25D007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874D3F8E-4DED-4197-9A71-D3D5145574B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
